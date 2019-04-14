@@ -1,0 +1,11 @@
+emp_id,emp_name,emp_salary,department_name
+1,Amiya,10000,computer
+2,krishna,20000,computer
+2,krishna,20000,computer
+3,gopal,30000,electronics
+4,hari,20000,electronics
+5,shyam,80000,biology
+6,Radha,90000,biology
+7,radhakrishna,90000,life
+8,bhim,70000,life
+9,arun,50000,life
