@@ -32,3 +32,6 @@ dependencies {
     testCompile 'org.scalatest:scalatest_2.11:3.0.0'
     testRuntime 'org.scala-lang.modules:scala-xml_2.11:1.0.6'
 }
+sourceSets {
+    main.scala.srcDir 'src/main/scala'
+}
